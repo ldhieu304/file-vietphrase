@@ -1,0 +1,59 @@
+// --- BỔ SUNG KÝ TỰ CHỮ SỐ & HỆ THỐNG (VÕNG DU / KHOA HUYỄN) ---
+〇=linh
+Ⅰ=I
+Ⅱ=II
+Ⅲ=III
+Ⅳ=IV
+Ⅴ=V
+Ⅵ=VI
+Ⅶ=VII
+Ⅷ=VIII
+Ⅸ=IX
+Ⅹ=X
+
+// --- BỔ SUNG BẢNG CHỮ CÁI HY LẠP (HAY DÙNG TRONG TRUYỆN DỊ NĂNG, CƠ GIÁP, ABO) ---
+α=alpha
+β=beta
+γ=gamma
+δ=delta
+ε=epsilon
+ζ=zeta
+η=eta
+θ=theta
+ι=iota
+κ=kappa
+λ=lambda
+μ=mu
+ν=nu
+ξ=xi
+ο=omicron
+π=pi
+ρ=rho
+σ=sigma
+τ=tau
+υ=upsilon
+φ=phi
+χ=chi
+ψ=psi
+ω=omega
+Ω=Omega
+Σ=Sigma
+Δ=Delta
+Φ=Phi
+
+// --- BỔ SUNG KÝ TỰ TOÁN HỌC & ĐO LƯỜNG ---
+∞=vô cực
+√=căn
+×=nhân
+÷=chia
+℃=độ C
+℉=độ F
+‰=phần nghìn
+
+// --- BỔ SUNG CHỮ HÁN HIẾM / MỚI (CÁC NGUYÊN TỐ HÓA HỌC HAY GẶP TRONG KHOA HUYỄN) ---
+鿏=mạc
+鿫=áo
+鿬=điền
+鿭=miết
+鿮=phu
+鿯=lập
